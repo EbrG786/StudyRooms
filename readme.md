@@ -11,13 +11,14 @@
   <h4>Browse Results Page</h4>
   <p>Browsing according to the wanted topics eg <b>Machine Learning</b></p>
   <img src='browse.PNG'>
-  <h4>Create Room Page</h4>
-  <img src='croom.PNG'>
   <h4>Profile Page</h4>
   <img src='prof.PNG'>
   <h4>Edit profile Page</h4>
   <img src='ep.PNG'>
+  <h4>Create Room Page</h4>
+  <img src='croom.PNG'>
   <h4>Room</h4>
   <p>This is where you can join the room and discuss or chat on any topics related to the room.</p>
   <img src='room.PNG'>
+  
 </div>
