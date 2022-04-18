@@ -1,1 +1,1 @@
-<h1>StudyRooms<h1>
+<h1 align='center'>StudyRooms<h1>
