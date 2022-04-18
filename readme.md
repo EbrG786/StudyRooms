@@ -26,5 +26,12 @@
   <h4>Room</h4>
   <p>This is where you can join the room and discuss or chat on any topics related to the room.</p>
   <img src='room.PNG'>
-  
 </div>
+<div sytle="background:white;">
+  <h3>Steps to run project:</h3>
+  <ul>
+  <li>Install the project in your local machine</li>
+  <li>Create an environment </li>
+  <li>Run the command : py manage.py runserver</li>
+  </ul>
+<div>
